@@ -1,4 +1,4 @@
-# **Project 6: Healthcare Actuary Engine**
+# **Healthcare Actuary Engine (Insurance Cost Prediction)**
 
 ## **📌 Business Case**
 
